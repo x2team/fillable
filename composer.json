@@ -1,0 +1,25 @@
+{
+    "name": "x2team/fillable",
+    "description": "Artisan Command Get Table Field",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "BeeSupper",
+            "email": "lxbinh90@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "X2team\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "X2team\\Commands\\X2teamServiceProvider"
+            ]
+        }
+    }
+}
