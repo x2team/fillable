@@ -1,6 +1,6 @@
 <?php
 
-namespace X2team\Commands;
+namespace X2team;
 
 use Illuminate\Support\ServiceProvider;
 use X2team\Commands\ShowTableFieldCommand;

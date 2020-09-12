@@ -12,13 +12,13 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "X2team\\": "src/"
+            "X2team\\Fillable\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "X2team\\X2teamServiceProvider"
+                "X2team\\Fillable\\X2teamServiceProvider"
             ]
         }
     }
