@@ -18,7 +18,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "X2team\\Commands\\X2teamServiceProvider"
+                "X2team\\X2teamServiceProvider"
             ]
         }
     }
