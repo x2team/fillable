@@ -9,7 +9,7 @@ use X2team\Commands\ShowTableFieldCommand;
 class X2teamServiceProvider extends ServiceProvider
 {
 
-    protected $package_name = 'fillable';
+    // protected $package_name = 'fillable';
 
     protected $array_command = [
         ShowTableFieldCommand::class,
